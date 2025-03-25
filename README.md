@@ -1,1 +1,1 @@
-# TJU_Database_System
+天津大学 数据库系统
